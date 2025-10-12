@@ -24,12 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm a senior at Vanderbilt University, studying Computer Science, Mathematics, Data Science and Scientific Computing.
+Hi, I'm a senior at Vanderbilt University, majoring in Computer Science and Mathematics with minors in Data Science and Scientific Computing.
 
-I'm interested in exploring mathematical and statistical machine learning in continual learning and representation learning contexts.
+My research interests center on combining mathematical foundations and empirical analysis to better understand and improve deep learning models, with a focus on representation learning, and designing robust, efficient learning methods with theoretical guarantees.
 
-I work on parameter-efficient continual learning with the [Machine Intelligence and Neural Technologies (MINT)](https://mint-vu.github.io/) Lab under Dr. Soheil Kolouri and label-efficient active learning in physiological contexts with [Neuroimaging & Brain Dynamics (NeurdyLab)](https://www.cchanglab.net/) Lab under Dr. Catie Chang. I have previously also worked with the [Modeling and Analysis of Complex Systems (MACS)](https://lab.vanderbilt.edu/vumacs/) lab under Dr. Gautam Biswas on a transfer learning project for energy efficiency.
+I work on representation learning, sparsity and optimal transport with the [Machine Intelligence and Neural Technologies (MINT)](https://mint-vu.github.io/) Lab under Dr. Soheil Kolouri and label-efficient learning in physiological contexts with [Neuroimaging & Brain Dynamics (NeurdyLab)](https://www.cchanglab.net/) Lab under Dr. Catie Chang. I have previously also worked with the [Modeling and Analysis of Complex Systems (MACS)](https://lab.vanderbilt.edu/vumacs/) lab under Dr. Gautam Biswas on a transfer learning project for energy efficiency.
 
-This summer, I'm a software engineering intern at Google. I previously interned at Johnson & Johnson where I worked on a computer vision project.
+This past summer, I was a software engineering intern at Google working on efficient media processing for AI features on Meet. I previously also interned at Johnson & Johnson and worked on a computer vision project.
 
 I enjoy playing badminton, producing music and learning random bits from different languages!
