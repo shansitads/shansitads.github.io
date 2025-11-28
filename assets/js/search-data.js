@@ -34,7 +34,10 @@ ninja.data = [{
             window.location.href = "/blog/2025/ML-Papers-In-10-Minutes/";
           
         },
-      },{
+      },{id: "news-i-will-be-at-neurips-in-san-diego-this-upcoming-week-sparkles",
+          title: 'I will be at NeurIPS in San Diego this upcoming week! :sparkles:',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
