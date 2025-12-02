@@ -45,11 +45,11 @@ ninja.data = [{
           window.open("mailto:%73%68%61%6E%73%69%74%61.%64.%73%68%61%72%6D%61@%76%61%6E%64%65%72%62%69%6C%74.%65%64%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/shansitads", "_blank");
+          window.open("https://scholar.google.com/citations?user=Y71TiuAAAAAJ", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -57,13 +57,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/shansita-das-sharma", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=Y71TiuAAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
