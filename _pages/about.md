@@ -26,7 +26,7 @@ latest_posts:
 
 Hi, I'm a senior at Vanderbilt University, majoring in Computer Science and Mathematics with minors in Data Science and Scientific Computing.
 
-My research interests center on combining mathematical foundations and empirical validation to better understand and improve deep learning models, with a focus on designing efficient and reliable learning methods with theoretical guarantees.
+My research interests center on combining mathematical foundations and empirical validation to better understand and improve deep learning, with a focus on designing efficient and reliable learning methods with theoretical guarantees.
 
 I work on representation, compression and optimal transport with the [Machine Intelligence and Neural Technologies (MINT)](https://mint-vu.github.io/) Lab under Dr. Soheil Kolouri and physiological signal modelling with [Neuroimaging & Brain Dynamics (NeurdyLab)](https://www.cchanglab.net/) Lab under Dr. Catie Chang. I have previously also worked with the [Modeling and Analysis of Complex Systems (MACS)](https://lab.vanderbilt.edu/vumacs/) lab under Dr. Gautam Biswas on a transfer learning project for energy efficiency.
 

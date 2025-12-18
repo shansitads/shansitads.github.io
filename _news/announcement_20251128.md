@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be at NeurIPS in San Diego this upcoming week! :sparkles:
+I will be at NeurIPS in San Diego this upcoming week :sparkles:
