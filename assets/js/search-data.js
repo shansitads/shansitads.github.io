@@ -35,7 +35,10 @@ ninja.data = [{
           
         },
       },{id: "news-i-will-be-at-neurips-in-san-diego-this-upcoming-week-sparkles",
-          title: 'I will be at NeurIPS in San Diego this upcoming week! :sparkles:',
+          title: 'I will be at NeurIPS in San Diego this upcoming week :sparkles:',
+          description: "",
+          section: "News",},{id: "news-i-have-received-an-honorable-mention-for-the-cra-outstanding-undergraduate-researcher-award-raised-hands",
+          title: 'I have received an honorable mention for the CRA Outstanding Undergraduate Researcher Award!...',
           description: "",
           section: "News",},{
         id: 'social-email',
