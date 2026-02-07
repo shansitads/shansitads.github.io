@@ -55,3 +55,16 @@ author = {Shansita Das {Sharma} and Austin Coursey and Marcos Quinones-Grueiro a
 keywords = {Energy systems, Forecasting, Machine learning},
 abstract = {The growing demand for building energy efficiency necessitates accurate predictions of normal versus abnormal operations to understand their impact on energy management. However, integrating predictive models into practical applications faces challenges, especially in buildings with limited measurements and data. This paper explores the viability of three widely adopted transfer learning techniques in improving energy consumption models, focusing on real-world data with internal building measurements. The findings suggest that transferring information between buildings is a promising method to provide positive improvements in energy prediction models.}
 }
+
+@misc{zssvd2026,
+title = {Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression}, 
+author = {Ali Abbasi and Chayne Thrash and Haoran Qin and Shansita Sharma and Sepehr Seifi and Soheil Kolouri},
+year = {2026},
+eprint = {2602.02848},
+archivePrefix = {arXiv},
+primaryClass = {cs.LG},
+doi = {https://doi.org/10.48550/arXiv.2602.02848},
+url = {https://arxiv.org/abs/2602.02848}, 
+preview = {zssvd2026.png},
+abstract = {Advances in large language models have driven strong performance across many tasks, but their memory and compute costs still hinder deployment. SVD-based compression reduces storage and can speed up inference via low-rank factors, yet performance depends on how rank is allocated under a global compression ratio. Prior methods often use homogeneous ranks for similarly sized matrices, despite large differences in loss sensitivity, or rely on expensive iterative pre-truncation optimization to determine per matrix ranks. We propose \textbf{Zero Sum SVD} (\textbf{ZS-SVD}), a post-training method that performs \emph{global} singular component selection using activation whitening and first-order calibration loss estimates in whitened coordinates. \textbf{ZS-SVD} prunes components across the whole model with a \textbf{zero sum} rule that keeps the cumulative predicted loss change near zero, automatically yielding heterogeneous ranks without solving a rank allocation optimization. Motivated by evidence that gradients near pretrained solutions exhibit low rank structure, we also introduce an optional lightweight correction that applies a \textbf{single} projected gradient update after truncation, followed by re-truncation. Extensive experiments across multiple LLM architectures show consistent gains across diverse benchmarks and compression ratios.}
+}
