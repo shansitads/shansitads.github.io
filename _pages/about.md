@@ -24,12 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm a senior at Vanderbilt University, majoring in Computer Science and Mathematics with minors in Data Science and Scientific Computing.
+Hi, I'm an incoming PhD student at the University of Southern California (USC), advised by [Dr. Mahdi Soltanolkotabi](https://viterbi.usc.edu/directory/faculty/Soltanolkotabi/Mahdi). My research interests center on combining mathematical foundations and empirical validation to better understand and improve deep learning, with a focus on designing efficient and reliable learning methods with theoretical guarantees.
 
-My research interests center on combining mathematical foundations and empirical validation to better understand and improve deep learning, with a focus on designing efficient and reliable learning methods with theoretical guarantees.
 
-I work on representation, compression and optimal transport with the [Machine Intelligence and Neural Technologies (MINT)](https://mint-vu.github.io/) Lab under Dr. Soheil Kolouri and physiological signal modelling with [Neuroimaging & Brain Dynamics (NeurdyLab)](https://www.cchanglab.net/) Lab under Dr. Catie Chang. I have previously also worked with the [Modeling and Analysis of Complex Systems (MACS)](https://lab.vanderbilt.edu/vumacs/) lab under Dr. Gautam Biswas on a transfer learning project for energy efficiency.
+As an undergraduate at Vanderbilt University, I majored in Computer Science and Mathematics. During this time, I conducted research on deep representation, model compression and optimal transport under [Dr. Soheil Kolouri](https://mint-vu.github.io/). I also had the pleasure of working with [Dr. Catie Chang](https://www.cchanglab.net/) and [Dr. Gautam Biswas](https://lab.vanderbilt.edu/vumacs/).
 
-This past summer, I was a software engineering intern at Google working on efficient media processing for AI features on Meet. I previously also interned at Johnson & Johnson working on computer vision.
 
-I enjoy playing badminton, producing music and learning random bits from different languages!
+In the past, I have interned at Google, working on efficient media processing for AI features on Meet, and at Johnson & Johnson, working on computer vision.
+
+
+I enjoy playing badminton, producing music and learning bits of different languages!
