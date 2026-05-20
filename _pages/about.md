@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm an incoming PhD student at the University of Southern California (USC), advised by [Dr. Mahdi Soltanolkotabi](https://viterbi.usc.edu/directory/faculty/Soltanolkotabi/Mahdi). My research interests center on combining mathematical foundations and empirical validation to better understand and improve deep learning, with a focus on designing efficient and reliable learning methods with theoretical guarantees.
+Hi, I'm an incoming PhD student at the University of Southern California (USC), advised by [Dr. Mahdi Soltanolkotabi](https://viterbi.usc.edu/directory/faculty/Soltanolkotabi/Mahdi). My research interests center on designing efficient and reliable deep learning approaches with theoretical guarantees.
 
 
 As an undergraduate at Vanderbilt University, I majored in Computer Science and Mathematics. During this time, I conducted research on deep representation, model compression and optimal transport under [Dr. Soheil Kolouri](https://mint-vu.github.io/). I also had the pleasure of working with [Dr. Catie Chang](https://www.cchanglab.net/) and [Dr. Gautam Biswas](https://lab.vanderbilt.edu/vumacs/).
