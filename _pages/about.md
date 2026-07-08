@@ -30,7 +30,7 @@ Hi, I'm an incoming PhD student at the University of Southern California (USC), 
 As an undergraduate at Vanderbilt University, I majored in Computer Science and Mathematics. During this time, I conducted research on deep representation, model compression and optimal transport under [Dr. Soheil Kolouri](https://mint-vu.github.io/). I also had the pleasure of working with [Dr. Catie Chang](https://www.cchanglab.net/) and [Dr. Gautam Biswas](https://lab.vanderbilt.edu/vumacs/).
 
 
-In the past, I have interned at Google, working on efficient media processing for AI features on Meet, and at Johnson & Johnson, working on computer vision.
+In the past, I have interned at Google and Johnson & Johnson, working on information retrieval and computer vision.
 
 
 I enjoy playing badminton, producing music and learning bits of different languages!

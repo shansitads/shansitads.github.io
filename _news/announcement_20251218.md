@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have received an honorable mention for the CRA Outstanding Undergraduate Researcher Award! :raised_hands:
+I received an honorable mention for the CRA Outstanding Undergraduate Researcher Award! :raised_hands:
