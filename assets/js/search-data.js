@@ -59,7 +59,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/shansita-das-sharma", "_blank");
+          window.open("https://www.linkedin.com/in/shansita-sharma", "_blank");
         },
       },{
       id: 'light-theme',
