@@ -1,6 +1,6 @@
 ---
 ---
-@misc{lowrankprehab2026,
+@article{lowrankprehab2026,
 title={Low-Rank Prehab: Preparing Neural Networks for SVD Compression}, 
 journal = {IEEE Conference on Artificial Intelligence (CAI)},
 author={Haoran Qin and Shansita {Sharma} and Ali Abbasi and Chayne Thrash and Soheil Kolouri},
@@ -53,7 +53,7 @@ keywords = {Energy systems, Forecasting, Machine learning},
 abstract = {The growing demand for building energy efficiency necessitates accurate predictions of normal versus abnormal operations to understand their impact on energy management. However, integrating predictive models into practical applications faces challenges, especially in buildings with limited measurements and data. This paper explores the viability of three widely adopted transfer learning techniques in improving energy consumption models, focusing on real-world data with internal building measurements. The findings suggest that transferring information between buildings is a promising method to provide positive improvements in energy prediction models.}
 }
 
-@misc{zssvd2026,
+@article{zssvd2026,
 title = {Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression}, 
 journal = {International Conference on Machine Learning (ICML)},
 author = {Ali Abbasi and Chayne Thrash and Haoran Qin and Shansita Sharma and Sepehr Seifi and Soheil Kolouri},
@@ -62,4 +62,14 @@ doi = {https://doi.org/10.48550/arXiv.2602.02848},
 url = {https://arxiv.org/abs/2602.02848}, 
 preview = {zssvd2026.png},
 abstract = {Advances in large language models have driven strong performance across many tasks, but their memory and compute costs still hinder deployment. SVD-based compression reduces storage and can speed up inference via low-rank factors, yet performance depends on how rank is allocated under a global compression ratio. Prior methods often use homogeneous ranks for similarly sized matrices, despite large differences in loss sensitivity, or rely on expensive iterative pre-truncation optimization to determine per matrix ranks. We propose \textbf{Zero Sum SVD} (\textbf{ZS-SVD}), a post-training method that performs \emph{global} singular component selection using activation whitening and first-order calibration loss estimates in whitened coordinates. \textbf{ZS-SVD} prunes components across the whole model with a \textbf{zero sum} rule that keeps the cumulative predicted loss change near zero, automatically yielding heterogeneous ranks without solving a rank allocation optimization. Motivated by evidence that gradients near pretrained solutions exhibit low rank structure, we also introduce an optional lightweight correction that applies a \textbf{single} projected gradient update after truncation, followed by re-truncation. Extensive experiments across multiple LLM architectures show consistent gains across diverse benchmarks and compression ratios.}
+}
+
+@article{akbari2026otmeanflow3dbridgingoptimaltransport,
+title={OT-MeanFlow3D: Bridging Optimal Transport and Meanflow for Efficient 3D Point Cloud Generation}, 
+author={Elaheh Akbari and Shansita Sharma and Ping He and Ahmadreza Moradipari and Kyungtae Han and Hamed Pirsiavash and Yikun Bai and Soheil Kolouri},
+year={2026},
+doi={https://doi.org/10.48550/arXiv.2509.22592},
+url={https://arxiv.org/abs/2509.22592}, 
+preview = {otmeanflow2026.png},
+abstract = {Flow-matching models have recently emerged as a powerful framework for continuous generative modeling, including 3D point cloud synthesis. However, their deployment is limited by the need for multiple sequential sampling steps at inference time. MeanFlow enables single-step generation and significantly accelerates inference, but often struggles to approximate the trajectories of the original multi-step flow, leading to degraded sample quality. In this work, we propose an Optimal Transport-enhanced MeanFlow framework (OT-MF3D) for efficient and accurate 3D point cloud generation and completion. By incorporating optimal transport-based sampling, our method better preserves the geometric and distributional structure of the underlying multi-step flow while retaining single-step inference. Experiments on ShapeNet show improved generation and completion quality compared to recent baselines, while reducing training and inference costs relative to conventional diffusion and flow-based models.}
 }
